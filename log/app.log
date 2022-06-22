@@ -1,0 +1,42 @@
+11:01:2020-02:31:22 root INFO norm.py: logger initialized..
+11:01:2020-02:31:22 root INFO mongodao.py: initializing mongo
+11:01:2020-02:31:22 root INFO mongodao.py: mongodb://localhost:27017
+11:01:2020-02:31:22 root DEBUG mongodao.py: database used: normdb
+11:01:2020-02:31:22 root DEBUG mongodao.py: test collection used: testCol
+11:01:2020-02:31:22 root DEBUG mongodao.py: checking mongodb and connection
+11:01:2020-02:31:22 root DEBUG mongodao.py: done..
+11:01:2020-02:31:22 root DEBUG mongodao.py: checking testCol connection with data: {'lastInitialization': '11/01/2020 02:31:22'}
+11:01:2020-02:31:22 root DEBUG mongodao.py: done..
+11:01:2020-02:31:22 root INFO mongodao.py: mongo initialized..
+11:01:2020-02:31:22 root INFO mongodao.py: checking RequestIdCol
+11:01:2020-02:31:22 root INFO mongodao.py: RequestIdCol initialized to {'RequestId': 1, '_id': ObjectId('5e18e622813e377d5e10850e')}
+11:01:2020-02:31:22 root INFO mongodao.py: checked RequestIdCol..
+11:01:2020-02:31:26 root INFO norm.py: logger initialized..
+11:01:2020-02:31:26 root INFO mongodao.py: initializing mongo
+11:01:2020-02:31:26 root INFO mongodao.py: mongodb://localhost:27017
+11:01:2020-02:31:26 root DEBUG mongodao.py: database used: normdb
+11:01:2020-02:31:26 root DEBUG mongodao.py: test collection used: testCol
+11:01:2020-02:31:26 root DEBUG mongodao.py: checking mongodb and connection
+11:01:2020-02:31:26 root DEBUG mongodao.py: done..
+11:01:2020-02:31:26 root DEBUG mongodao.py: checking testCol connection with data: {'lastInitialization': '11/01/2020 02:31:26'}
+11:01:2020-02:31:26 root DEBUG mongodao.py: done..
+11:01:2020-02:31:26 root INFO mongodao.py: mongo initialized..
+11:01:2020-02:31:26 root INFO mongodao.py: checking RequestIdCol
+11:01:2020-02:31:26 root INFO mongodao.py: RequestIdCol has RequestId: 1
+11:01:2020-02:31:26 root INFO mongodao.py: checked RequestIdCol..
+11:01:2020-02:36:43 root INFO norm.py: logger initialized..
+11:01:2020-02:36:43 root INFO mongodao.py: initializing mongo
+11:01:2020-02:36:43 root INFO mongodao.py: mongodb://localhost:27017
+11:01:2020-02:36:43 root DEBUG mongodao.py: database used: normdb
+11:01:2020-02:36:43 root DEBUG mongodao.py: test collection used: testCol
+11:01:2020-02:36:43 root DEBUG mongodao.py: checking mongodb and connection
+11:01:2020-02:36:43 root DEBUG mongodao.py: done..
+11:01:2020-02:36:43 root DEBUG mongodao.py: checking testCol connection with data: {'lastInitialization': '11/01/2020 02:36:43'}
+11:01:2020-02:36:43 root DEBUG mongodao.py: done..
+11:01:2020-02:36:43 root INFO mongodao.py: checking RequestIdCol
+11:01:2020-02:36:43 root INFO mongodao.py: RequestIdCol initialized to {'RequestId': 0, '_id': ObjectId('5e18e763501b572a0a8fcae6')}
+11:01:2020-02:36:43 root INFO mongodao.py: checked RequestIdCol..
+11:01:2020-02:36:43 root INFO mongodao.py: checking transactionIdCol
+11:01:2020-02:36:43 root INFO mongodao.py: transactionIdCol initialized to {'TransactionId': 0, '_id': ObjectId('5e18e763501b572a0a8fcae7')}
+11:01:2020-02:36:43 root INFO mongodao.py: checked transactionIdCol..
+11:01:2020-02:36:43 root INFO mongodao.py: mongo initialized..

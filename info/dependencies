@@ -1,0 +1,7 @@
+#must have
+python 3.x
+pymongo 3.x
+mongodb
+
+#good to have
+pip 19.x
